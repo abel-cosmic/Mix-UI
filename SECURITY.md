@@ -12,7 +12,7 @@ The following table outlines the versions of MixUI currently supported with secu
 
 To report a vulnerability in MixUI, please follow these steps:
 
-1. **Contact Us:** Send a detailed description of the vulnerability to [security@mixui.com](mailto:security@mixui.com). Include the version of MixUI you're using, the nature of the vulnerability, and any potential impact.
+1. **Contact Us:** Send a detailed description of the vulnerability to [abelshibabaw291@gmail.com](mailto:abelshibabaw291@gmail.com). Include the version of MixUI you're using, the nature of the vulnerability, and any potential impact.
 
 2. **Response Time:** You can expect an initial response within 48 hours of reporting. We will provide regular updates on the status of your report and any actions being taken.
 
