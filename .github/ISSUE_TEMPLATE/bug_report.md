@@ -1,38 +1,45 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: Bug Report
+about: Report a bug or an issue with MixUI
+title: "[Bug] Brief Description"
+labels: 'bug'
 assignees: ''
-
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# 🐛 Bug Report
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## 📝 Description
+<!-- A clear and concise description of what the bug is. -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## 🌍 Environment
+<!-- Provide details about your development environment: -->
+- Platform(s) affected:
+  - [ ] Next.js 
+  - [ ] Gatsby
+  - [ ] Vite
+  - [ ] Vue.js
+  - [ ] Flutter
+  - [ ] React Native
+  - [ ] JetPackCompose
+  - [ ] Svelte
+- MixUI Version: 
+- Browser or Device: 
+- Operating System: 
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## 💥 Steps to Reproduce
+<!-- Steps to reproduce the issue: -->
+1. 
+2. 
+3. 
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## 🔍 Expected Behavior
+<!-- Describe what you expected to happen. -->
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## 💡 Actual Behavior
+<!-- Describe what actually happened. -->
 
-**Additional context**
-Add any other context about the problem here.
+## 📷 Screenshots/Code
+<!-- If applicable, add screenshots or code snippets to help explain the issue. -->
+
+## 📚 Additional Context
+<!-- Add any other context about the problem here. -->
