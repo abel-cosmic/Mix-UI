@@ -1,20 +1,35 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Feature Request
+about: Suggest a new feature or enhancement for MixUI
+title: "[Feature] Brief Description"
+labels: 'enhancement'
 assignees: ''
-
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+# 🚀 Feature Request
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## 📝 Description
+<!-- A clear and concise description of the feature or enhancement you are requesting. -->
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## 🌍 Platform(s)
+<!-- Indicate which platform(s) this feature would benefit: -->
+- [ ] Next.js 
+- [ ] Gatsby
+- [ ] Vite
+- [ ] Vue.js
+- [ ] Flutter
+- [ ] React Native
+- [ ] JetPackCompose
+- [ ] Svelte
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 💡 Use Case
+<!-- Explain why this feature is necessary and how it will benefit users. -->
+
+## 🔍 Proposed Solution
+<!-- Describe how you envision the feature being implemented. -->
+
+## 🚫 Alternatives Considered
+<!-- List any alternative solutions or workarounds you've considered. -->
+
+## 📚 Additional Context
+<!-- Add any other context or screenshots about the feature request here. -->
