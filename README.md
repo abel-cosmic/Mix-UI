@@ -6,7 +6,7 @@ Versatile and customizable components that you can copy and paste into your apps
 
 ## Documentation
 
-Visit [MixUI Documentation]([http://docs.mix-ui.vercel](https://mix-ui-docs.vercel.app/)) to view the complete documentation.
+Visit [MixUI Documentation](https://mix-ui-docs.vercel.app/) to view the complete documentation.
 
 ## Figma Design System
 
