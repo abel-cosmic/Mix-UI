@@ -2,12 +2,11 @@
 
 Versatile and customizable components that you can copy and paste into your apps. Multiplatform. Free. Open Source. **Use this to build your own component library across multiple platforms.**
 
-![MixUI Figma Design System](![image](https://github.com/user-attachments/assets/382e3249-ace6-4b13-9d4b-83defadbf416)
-)
+![image](https://github.com/user-attachments/assets/7d1c2b7e-2601-49e2-857e-6678759a5744)
 
 ## Documentation
 
-Visit [MixUI Documentation](http://your-docs-link.com) to view the complete documentation.
+Visit [MixUI Documentation](http://docs.mix-ui.vercel) to view the complete documentation.
 
 ## Figma Design System
 
