@@ -10,7 +10,7 @@ Visit [MixUI Documentation](https://mix-ui-docs.vercel.app/) to view the complet
 
 ## Figma Design System
 
-Explore the [MixUI Design System on Figma](https://shorturl.at/hjOV3) to ensure a consistent design language across all platforms.
+Explore the [MixUI Design System on Figma](https://www.figma.com/design/mZcSQnJucx2oXeLq8p8uzd/%40mix-ui---Design-System-(Community)-(Copy)?node-id=6-2&t=tHsdEkiBL3KRI7Di-1) to ensure a consistent design language across all platforms.
 
 ## Contributing
 
